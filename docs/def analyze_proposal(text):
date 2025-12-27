@@ -1,0 +1,2 @@
+ keywords = ["reward", "staking", "governance"]
+    return [k for k in keywords if k in text.lower()]
